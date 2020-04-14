@@ -1,6 +1,7 @@
 # projectInitializer
 Automate project creation using Python
-#only on Windows Users
+
+only for Windows Users
 
 ```
 create env vars in your System:
